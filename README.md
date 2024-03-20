@@ -1,6 +1,6 @@
 Welcome to the repository dedicated to exploring the fascinating intersection of Language Models (LLMs) and Blockchain technology, known as LangChain. 
 
-# Project Chatbot using LangChain 
+# Project Chatbot using LangChain, Huggin Face's LLM and Open AI Models
 
 Chatbot tailored for a company that builds beverage machinery, employing advanced entity memory techniques. In this project, we delve into the realm of entity memory, a revolutionary memory strategy that empowers our chatbot to not just comprehend but also retain essential facts about specific entities mentioned during conversations.
 
